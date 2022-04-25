@@ -43,7 +43,7 @@
   
     ![](./ss/petugas/detail&verifikasi.png)
     
--  ### Admin
+- ### Admin
 
   - Login
   
